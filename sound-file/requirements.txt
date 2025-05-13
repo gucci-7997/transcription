@@ -1,0 +1,5 @@
+streamlit==1.33.0
+openai-whisper==20231117
+torch>=1.10.0
+ffmpeg-python
+ffmpeg
